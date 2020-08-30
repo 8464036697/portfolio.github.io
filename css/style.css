@@ -181,22 +181,6 @@ margin:3px;
 	text-align: center;
 	
 }
-.save1 .fas{
-margin:3px;
-	font-size:20px;
-	color:#fff;
-	position:center;
-
-	
-	
-}
-.hell1{
-	margin:3px;
-	font-size:20px;
-	position:center;
-	 
-	
-}
 .services-box span{
 	margin:3px;
 	font-size:18px;
@@ -382,8 +366,7 @@ margin:3px;
 {
 	.save .fa{margin-left:-50px;}
 	.hell{margin-left:-50px;}
-	.save1 .fa{margin-left:-50px;}
-	.hell1{margin-left:-50px;}
+	
 }
 @media only screen and (max-width:992px)
 {
@@ -406,16 +389,13 @@ margin:3px;
 {
 	.save .fa{margin-left:-240px;}
 	.hell{margin-left:-240px;}
-	.save1 .fa{margin-left:-150px;}
-	.hell1{margin-left:-140px;}
 	
 }
 @media only screen and (max-width:440px)
 {
 	.save .fa{margin-left:-340px;}
 	.hell{margin-left:-340px;}
-	.save1 .fa{margin-left:-200px;}
-	.hell1{margin-left:-190px;}
+	
 	.you{
 	margin-top:-200px;
 	margin-left:-50px;}
